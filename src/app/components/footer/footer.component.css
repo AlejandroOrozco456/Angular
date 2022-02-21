@@ -9,7 +9,7 @@ footer {
 	background-attachment: fixed;
 	position: relative;
 	overflow: hidden;
-	border-radius: 0 0 85% 85% / 30%;
+	border-radius: 85% 85% 0 0 / 30%;
 }
 footer .overlay{
 	width: 100%;
